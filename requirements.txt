@@ -1,0 +1,3 @@
+# Optional dependencies for enhanced speech and audio features on Windows
+# (Standard Python 3.8+ on Windows comes with Tkinter and winsound built-in)
+pywin32>=306
